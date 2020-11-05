@@ -364,7 +364,7 @@ nav ul{
 
 nav a{
     display: block;
-    padding: 20px 18px;
+    padding: 22px 11px;
 }
 
 nav ul a{
@@ -385,7 +385,7 @@ nav ul a:hover {
     position: absolute;
     background: var(--white);
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, .2) ;
-    min-width: 200px;
+    min-width: 180px;
 }
 
 .dropdown-items a{
